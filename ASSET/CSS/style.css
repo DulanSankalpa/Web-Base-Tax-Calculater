@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 { text-align: center; }
+
+.tabs button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.section {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 0 5px #aaa;
+}
+
+input, select {
+    margin: 5px 0;
+    padding: 5px;
+}
